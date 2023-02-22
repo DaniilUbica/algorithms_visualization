@@ -68,6 +68,7 @@ void dispSort() {
     window.draw(s);
     window.draw(space);
     window.draw(choosen);
+
     if (startBubble) {
         window.draw(bubble);
     }
